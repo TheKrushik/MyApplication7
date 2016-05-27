@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
 //                Intent intent = new Intent(this, Activity2.class);
 //                startActivity(intent);
                 break;
-            case R.id.button8://чтение (всегда возвращает Cursor)
+            case R.id.button8://чтение количества (всегда возвращает Cursor)
 //                Cursor cursor = db.query("Students", null, null, null, null, null, null);
 //                if (cursor.moveToFirst()) {// проверяем что в этом курсоре есть записи? хоть одна
 //                    while (!cursor.isAfterLast()){
